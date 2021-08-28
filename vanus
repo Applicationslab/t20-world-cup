@@ -1,0 +1,25 @@
+[{
+		"country": "United Arab Emirates",
+		"image": "https://sportsmatik.com/uploads/wiki-venues/dubai-international-cricket-stadium_1582024332.jpg",
+		"location": "Dubai",
+		"name": "Dubai International Cricket Stadium"
+	},
+	{
+		"country": "United Arab Emirates",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YcLTQAyzHe54byd-JdJcyZbcYauBiJN0bKQiqXazv9BQZIdwz1Au5kWbQXTTjI-BDOw&usqp=CAU",
+		"location": "Sharjah",
+		"name": "Sharjah Cricket Stadium"
+	},
+	{
+		"country": "United Arab Emirates",
+		"image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/sheikh-zayed-stadium-1600237570.jpeg",
+		"location": "Abu Dhabi",
+		"name": "Sheikh Zayed Cricket Stadium"
+	},
+	{
+		"country": "Oman",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Amerat_Cricket_Stadium.jpg",
+		"location": "Muscat",
+		"name": "Oman Cricket Academy Ground"
+	}
+]
