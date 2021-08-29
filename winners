@@ -1,6 +1,37 @@
 [{
-	"winnersImage": "segsdghsz",
-	"winnersName": "No winner",
-	"winnersRun": "Runner-up: 0",
-	"winnersWin": "Champion: 0"
-}]
+		"winnersImage": "https://www.searchpng.com/wp-content/uploads/2019/03/West-Indies-Cricket-1.png",
+		"winnersName": "West Indies",
+		"winnersRun": "Runners-up: 0",
+		"winnersWin": "Champions (2012, 2016)"
+	},
+	{
+		"winnersImage": "https://img.icons8.com/color/452/sri-lanka-circular.png",
+		"winnersName": "Sri Lanka",
+		"winnersRun": "Runners-up: (2012, 2009)",
+		"winnersWin": "Champions (2014)"
+	},
+	{
+		"winnersImage": "https://cdn.countryflags.com/thumbs/india/flag-3d-round-250.png",
+		"winnersName": "India",
+		"winnersRun": "Runners-up: (2014)",
+		"winnersWin": "Champions (2007)"
+	},
+	{
+		"winnersImage": "https://cdn.countryflags.com/thumbs/pakistan/flag-button-round-250.png",
+		"winnersName": "Pakistan",
+		"winnersRun": "Runners-up: (2007)",
+		"winnersWin": "Champions (2009)"
+	},
+	{
+		"winnersImage": "https://cdn.countryflags.com/thumbs/england/flag-3d-round-250.png",
+		"winnersName": "England",
+		"winnersRun": "Runners-up: (2016)",
+		"winnersWin": "Champions (2010)"
+	},
+	{
+		"winnersImage": "https://cdn.countryflags.com/thumbs/australia/flag-button-round-250.png",
+		"winnersName": "Australia",
+		"winnersRun": "Runner-up (2010)",
+		"winnersWin": "Champions: 0"
+	}
+]
