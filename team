@@ -1,7 +1,7 @@
 [{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
 		"teamName": "India",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/india"
+		"teamOnclick": ""
 	},
 	{
 		"teamImage": "https://ss.thgim.com/cricket/article32125930.ece/alternates/FREE_380/PCBjpg",
