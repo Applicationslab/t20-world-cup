@@ -37,45 +37,5 @@
 		"teamImage": "https://s.ndtvimg.com/images/entities/300/afghanistan-2156.png",
 		"teamName": "Afghanistan",
 		"teamOnclick": "Afghanistan"
-	},
-	{
-		"teamImage": "https://assets.mcc.gov/content/uploads/2016/06/flag-sri-lanka.png",
-		"teamName": "Sri Lanka",
-		"teamOnclick": "Sri_Lanka"
-	},
-	{
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1200px-Bangladesh_Cricket_Board_Logo.svg.png",
-		"teamName": "Bangladesh",
-		"teamOnclick": "Bangladesh"
-	},
-	{
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/c/cb/Netherlandscricketlogo.jpg",
-		"teamName": "Netherlands",
-		"teamOnclick": "Netherlands"
-	},
-	{
-		"teamImage": "https://s.ndtvimg.com/images/entities/300/papua-new-guinea-105091.png",
-		"teamName": "Papua New Guinea",
-		"teamOnclick": "Papua_New_Guinea"
-	},
-	{
-		"teamImage": "https://cdn.wisden.com/wp-content/uploads/2019/05/Cricket-Ireland-300x296.png",
-		"teamName": "Ireland",
-		"teamOnclick": "Ireland"
-	},
-	{
-		"teamImage": "https://s.ndtvimg.com/images/entities/300/nam-2130.png",
-		"teamName": "Namibia",
-		"teamOnclick": "Namibia"
-	},
-	{
-		"teamImage": "https://s.ndtvimg.com/images/entities/300/scotland-2126.png",
-		"teamName": "Scotland",
-		"teamOnclick": "Scotland"
-	},
-	{
-		"teamImage": "https://e0.365dm.com/cricket/badges/192/2361.png",
-		"teamName": "Oman",
-		"teamOnclick": "Oman"
 	}
 ]
