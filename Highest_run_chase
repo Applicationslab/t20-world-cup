@@ -1,0 +1,26 @@
+[{
+		"team": "England",
+		"imageView": "https://cdn.countryflags.com/thumbs/england/flag-3d-round-250.png",
+		"score": "230-8"
+	},
+	{
+		"team": "South Africa",
+		"imageView": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png",
+		"score": "208-2"
+	},
+	{
+		"team": "Australia",
+		"imageView": "https://cdn.countryflags.com/thumbs/australia/flag-round-250.png",
+		"score": "197-7"
+	},
+	{
+		"team": "West Indies",
+		"imageView": "https://cricinfonepal.com/wp-content/uploads/2018/03/west-indies.png",
+		"score": "196-3"
+	},
+	{
+		"team": "Netherlands",
+		"imageView": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png",
+		"score": "193-4"
+	}
+]
