@@ -1,0 +1,51 @@
+[{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Six: 60"
+	},
+	{
+		"team": "Yuvraj Singh",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171064/yuvraj-singh.jpg",
+		"score": "Six: 33"
+	},
+	{
+		"team": "Shane Watson",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c180329/shane-watson.jpg",
+		"score": "Six: 31"
+	},
+	{
+		"team": "AB de Villiers",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg",
+		"score": "Six: 30"
+	},
+	{
+		"team": "Mahela Jayawardene",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c153241/mahela-jayawardene.jpg",
+		"score": "Six: 25"
+	},
+  {
+		"team": "Dwayne Bravo",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171033/dwayne-bravo.jpg",
+		"score": "Six: 24"
+	},
+	{
+		"team": "Rohit Sharma",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170658/rohit-sharma.jpg",
+		"score": "Six: 24"
+	},
+	{
+		"team": "JP Duminy",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170693/jean-paul-duminy.jpg",
+		"score": "Six: 23"
+	},
+	{
+		"team": "Ross Taylor",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170729/ross-taylor.jpg",
+		"score": "Six: 23"
+	},
+	{
+		"team": "Marlon Samuels",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146394/marlon-samuels.jpg",
+		"score": "Six: 21"
+	}
+]
