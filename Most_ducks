@@ -1,0 +1,26 @@
+[{
+		"team": "Shahid Afridi",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146389/shahid-afridi.jpg",
+		"score": "ducks: 5"
+	},
+	{
+		"team": "Tillakaratne Dilshan",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c154992/tillakaratne-dilshan.jpg",
+		"score": "ducks: 5"
+	},
+	{
+		"team": "Lendl Simmons",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157836/lendl-simmons.jpg",
+		"score": "ducks: 4"
+	},
+	{
+		"team": "Sanath Jayasuriya",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c151341/sanath-jayasuriya.jpg",
+		"score": "ducks: 4"
+	},
+	{
+		"team": "Luke Wright",
+		"imageView": "https://www.cricwindow.com/images/england/luke-wright1.jpg",
+		"score": "ducks: 4"
+	}
+]
