@@ -1,0 +1,26 @@
+[{
+		"team": "Netherlands",
+		"imageView": "https://cdn.countryflags.com/thumbs/netherlands/flag-button-round-250.png",
+		"score": "39–10"
+	},
+	{
+		"team": "New Zealand",
+		"imageView": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
+		"score": "60–10"
+	},
+	{
+		"team": "Ireland",
+		"imageView": "https://cdn.countryflags.com/thumbs/ireland/flag-button-round-250.png",
+		"score": "68–10"
+	},
+	{
+		"team": "Hong Kong",
+		"imageView": "https://cdn.countryflags.com/thumbs/hongkong/flag-3d-round-250.png",
+		"score": "69–10"
+	},
+	{
+		"team": "Bangladesh",
+		"imageView": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
+		"score": "70–10"
+	}
+]
