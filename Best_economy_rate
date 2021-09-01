@@ -1,0 +1,26 @@
+[{
+		"team": "Sunil Narine",
+		"imageView": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/260px-Sunil_Narine.jpg",
+		"score": "economy rate: 5.17"
+	},
+	{
+		"team": "Samuel Badree",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146362/samuel-badree.jpg",
+		"score": "economy rate: 5.52"
+	},
+	{
+		"team": "Daniel Vettori",
+		"imageView": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140529081036.jpeg",
+		"score": "economy rate: 5.83"
+	},
+	{
+		"team": "Nathan McCullum",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156124/nathan-mccullum.jpg",
+		"score": "economy rate: 5.94"
+	},
+	{
+		"team": "Ravichandran Ashwin",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c153372/ravichandran-ashwin.jpg",
+		"score": "economy rate: 6.18"
+	}
+]
