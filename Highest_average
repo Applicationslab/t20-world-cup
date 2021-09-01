@@ -1,0 +1,26 @@
+[{
+		"team": "Virat Kohli",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170661/virat-kohli.jpg",
+		"score": "Average: 86.33"
+	},
+	{
+		"team": "Michael Hussey",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c180290/michael-hussey.jpg",
+		"score": "Average: 54.62"
+	},
+	{
+		"team": "Kevin Pietersen",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c188413/kevin-pietersen.jpg",
+		"score": "Average: 44.61"
+	},
+	{
+		"team": "JP Duminy",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170693/jean-paul-duminy.jpg",
+		"score": "Average: 40.57"
+	},
+	{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Average: 40.00"
+	}
+]
