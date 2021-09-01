@@ -1,0 +1,26 @@
+[{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Fifties: 9"
+	},
+	{
+		"team": "Virat Kohli",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170661/virat-kohli.jpg",
+		"score": "Fifties: 9"
+	},
+	{
+		"team": "Mahela Jayawardene",
+		"imageView": "https://s.ndtvimg.com/images/entities/300/mahela-jayawardene-244.png",
+		"score": "Fifties: 7"
+	},
+	{
+		"team": "Rohit Sharma",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170658/rohit-sharma.jpg",
+		"score": "Fifties: 6"
+	},
+	{
+		"team": "Tillakaratne Dilshan",
+		"imageView": "https://s.ndtvimg.com/images/entities/300/tillakaratne-dilshan-170.png",
+		"score": "Fifties: 6"
+	}
+]
