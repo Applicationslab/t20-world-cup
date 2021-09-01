@@ -1,0 +1,26 @@
+[{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Centuries: 2"
+	},
+	{
+		"team": "Tamim Iqbal",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893500-e1517999434590.jpg",
+		"score": "Centuries: 1"
+	},
+	{
+		"team": "Ahmed Shehzad",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156794/ahmed-shehzad.jpg",
+		"score": "Centuries: 1"
+	},
+	{
+		"team": "Alex Hales",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156171/alex-hales.jpg",
+		"score": "Centuries: 1"
+	},
+	{
+		"team": "Brendon Mccullum",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156149/brendon-mccullum.jpg",
+		"score": "Centuries: 1"
+	}
+]
