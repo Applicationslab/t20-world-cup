@@ -1,0 +1,26 @@
+[{
+		"team": "Brendon McCullum",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156149/brendon-mccullum.jpg",
+		"score": "Runs: 123"
+	},
+	{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Runs: 117"
+	},
+	{
+		"team": "Alex Hales",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156171/alex-hales.jpg",
+		"score": "Runs: 116*"
+	},
+	{
+		"team": "Ahmed Shehzad",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156794/ahmed-shehzad.jpg",
+		"score": "Runs: 111*"
+	},
+	{
+		"team": "Tamim Iqbal",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893500-e1517999434590.jpg",
+		"score": "Runs: 103*"
+	}
+]
