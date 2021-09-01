@@ -1,0 +1,26 @@
+[{
+		"team": "Mahela Jayawardene",
+		"imageView": "https://s.ndtvimg.com/images/entities/300/mahela-jayawardene-244.png",
+		"score": "Runs: 1,016"
+	},
+	{
+		"team": "Chris Gayle",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"score": "Runs: 920"
+	},
+	{
+		"team": "Tillakaratne Dilshan",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c154992/tillakaratne-dilshan.jpg",
+		"score": "Runs: 897"
+	},
+	{
+		"team": "Virat Kohli",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170661/virat-kohli.jpg",
+		"score": "Runs: 777"
+	},
+	{
+		"team": "AB de Villiers",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg",
+		"score": "Runs: 717"
+	}
+]
