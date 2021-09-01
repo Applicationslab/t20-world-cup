@@ -1,0 +1,26 @@
+[{
+		"team": "Shahid Afridi",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146389/shahid-afridi.jpg",
+		"score": "Wickets: 39"
+	},
+	{
+		"team": "Lasith Malinga",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170724/lasith-malinga.jpg",
+		"score": "Wickets: 38"
+	},
+	{
+		"team": "Saeed Ajmal",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155824/saeed-ajmal.jpg",
+		"score": "Wickets: 36"
+	},
+	{
+		"team": "Ajantha Mendis",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/305100/305102.jpg",
+		"score": "Wickets: 35"
+	},
+	{
+		"team": "Umar Gull",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155834/umar-gul.jpg",
+		"score": "Wickets: 35"
+	}
+]
