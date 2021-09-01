@@ -1,15 +1,15 @@
 [{
-		"team": "Darren Sammy",
+		"team": "Sammy",
 		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157791/daren-sammy.jpg",
 		"score": "strike rate: 164.12"
 	},
 	{
-		"team": "Glenn Maxwell",
+		"team": "Maxwell",
 		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170641/glenn-maxwell.jpg",
 		"score": "strike rate: 160.00"
 	},
 	{
-		"team": "Shahid Afridi",
+		"team": "Afridi",
 		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146389/shahid-afridi.jpg",
 		"score": "strike rate: 154.23"
 	},
@@ -19,7 +19,7 @@
 		"score": "strike rate: 150.00"
 	},
 	{
-		"team": "Kevin Pietersen",
+		"team": "Pietersen",
 		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c188413/kevin-pietersen.jpg",
 		"score": "strike rate: 148.33"
 	}
