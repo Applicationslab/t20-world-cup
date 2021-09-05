@@ -1,61 +1,61 @@
 [{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170733/kane-williamson.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170733/kane-williamson.jpg",
 		"playerName": "Kane Williamson (Captain)"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170731/martin-guptill.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170731/martin-guptill.jpg",
 		"playerName": "Martin Guptill"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153409/mark-chapman.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153409/mark-chapman.jpg",
 		"playerName": "Mark Chapman"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170739/james-neesham.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170739/james-neesham.jpg",
 		"playerName": "James Neesham"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154932/todd-astle.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154932/todd-astle.jpg",
 		"playerName": "Todd Astle"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c185494/daryl-mitchell.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c185494/daryl-mitchell.jpg",
 		"playerName": "Daryl Mitchell"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170741/mitchell-santner.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170741/mitchell-santner.jpg",
 		"playerName": "Mitchell Santner"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c207888/devon-conway.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c207888/devon-conway.jpg",
 		"playerName": "Devon Conway"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154514/glenn-phillips.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154514/glenn-phillips.jpg",
 		"playerName": "Glenn Phillips"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154935/tim-seifert.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154935/tim-seifert.jpg",
 		"playerName": "Tim Seifert"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170747/trent-boult.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170747/trent-boult.jpg",
 		"playerName": "Trent Boult"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170749/lockie-ferguson.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170749/lockie-ferguson.jpg",
 		"playerName": "Lockie Ferguson"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156101/kyle-jamieson.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156101/kyle-jamieson.jpg",
 		"playerName": "Kyle Jamieson"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170755/ish-sodhi.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170755/ish-sodhi.jpg",
 		"playerName": "Ish Sodhi"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170753/tim-southee.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170753/tim-southee.jpg",
 		"playerName": "Tim Southee"
 	}
 ]
