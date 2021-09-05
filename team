@@ -11,7 +11,7 @@
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/e/e2/Cricket_Australia_Logo.png",
 		"teamName": "Australia",
-		"teamOnclick": ""
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Australia_Squad"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/England_cricket_team_logo.svg/1200px-England_cricket_team_logo.svg.png",
