@@ -31,11 +31,11 @@
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
 		"teamName": "West Indies",
-		"teamOnclick": ""
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/West_Indies"
 	},
 	{
 		"teamImage": "https://s.ndtvimg.com/images/entities/300/afghanistan-2156.png",
 		"teamName": "Afghanistan",
-		"teamOnclick": ""
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Afghanistan"
 	}
 ]
