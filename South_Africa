@@ -1,61 +1,61 @@
 [{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157823/temba-bavuma.jpg",
-		"selection2": "Temba Bavuma (Captain)"
+		"playerName": "Temba Bavuma (Captain)"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c160000/reeza-hendricks.jpg",
-		"selection2": "Reeza Hendricks"
+		"playerName": "Reeza Hendricks"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170645/aiden-markram.jpg",
-		"selection2": "Aiden Markram"
+		"playerName": "Aiden Markram"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170687/david-miller.jpg",
-		"selection2": "David Miller"
+		"playerName": "David Miller"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170691/rassie-van-der-dussen.jpg",
-		"selection2": "Rassie van der Dussen"
+		"playerName": "Rassie van der Dussen"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156946/wiaan-mulder.jpg",
-		"selection2": "Wiaan Mulder"
+		"playerName": "Wiaan Mulder"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170695/dwaine-pretorius.jpg",
-		"selection2": "Dwaine Pretorius"
+		"playerName": "Dwaine Pretorius"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170698/quinton-de-kock.jpg",
-		"selection2": "Quinton de Kock"
+		"playerName": "Quinton de Kock"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171037/heinrich-klaasen.jpg",
-		"selection2": "Heinrich Klaasen"
+		"playerName": "Heinrich Klaasen"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156935/keshav-maharaj.jpg",
-		"selection2": "Keshav Maharaj"
+		"playerName": "Keshav Maharaj"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/bjorn-fortuin.jpg",
-		"selection2": "Bjorn Fortuin"
+		"playerName": "Bjorn Fortuin"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170761/lungi-ngidi.jpg",
-		"selection2": "Lungi Ngidi"
+		"playerName": "Lungi Ngidi"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c168592/anrich-nortje.jpg",
-		"selection2": "Anrich Nortje"
+		"playerName": "Anrich Nortje"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170759/kagiso-rabada.jpg",
-		"selection2": "Kagiso Rabada"
+		"playerName": "Kagiso Rabada"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170774/tabraiz-shamsi.jpg",
-		"selection2": "Tabraiz Shamsi"
+		"playerName": "Tabraiz Shamsi"
 	}
 ]
