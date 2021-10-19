@@ -1,0 +1,26 @@
+[{
+		"team": "Mark Adair",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
+		"score": "economy rate: 2.25"
+	},
+	{
+		"team": "Lahiru Kumara",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
+		"score": "economy rate: 2.57"
+	},
+	{
+		"team": "Joshua Little",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171136/joshua-little.jpg",
+		"score": "economy rate: 3.50"
+	},
+	{
+		"team": "Bilal Khan",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
+		"score": "economy rate: 4.00"
+	},
+	{
+		"team": "Shakib",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"score": "economy rate: 4.25"
+	}
+]
