@@ -1,0 +1,26 @@
+[{
+		"team": "Zeeshan Maqsood",
+		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/75020.jpg",
+		"score": "Wickets: 4"
+	},
+	{
+		"team": "Curtis Campher",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191075/curtis-campher.jpg",
+		"score": "Wickets: 4"
+	},
+	{
+		"team": "Mark Adair",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
+		"score": "Wickets: 3"
+	},
+	{
+		"team": "Mahedi Hasan",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
+		"score": "Wickets: 3"
+	},
+	{
+		"team": "Bradley Wheal",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171168/bradley-wheal.jpg",
+		"score": "Wickets: 3"
+	}
+]
