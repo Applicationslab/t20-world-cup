@@ -36,16 +36,16 @@
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/1099/1099700.png",
 		"historyName": "Most career wickets",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_most_wickets"
 	},
 	{
 		"historyImage": "https://us.123rf.com/450wm/colonga/colonga1808/colonga180800319/111682914-young-cricket-bowler-throws-a-ball-in-a-jump.jpg?ver=6",
 		"historyName": "Best bowling figures",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_best_bowling"
 	},
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/3553/3553968.png",
 		"historyName": "Best economy rate",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_economy_rate"
 	}
 ]
