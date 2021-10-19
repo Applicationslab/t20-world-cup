@@ -1,0 +1,26 @@
+[{
+		"team": "Jatinder Singh",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
+		"score": "Runs: 73"
+	},
+	{
+		"team": "Assad Vala",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
+		"score": "Runs: 56"
+	},
+	{
+		"team": "Max ODowd",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
+		"score": "Runs: 51"
+	},
+	{
+		"team": "Aqib Ilyas",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Runs: 50"
+	},
+	{
+		"team": "Chris Greaves",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/286300/286357.1.jpg",
+		"score": "Runs: 45"
+	}
+]
