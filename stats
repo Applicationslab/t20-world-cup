@@ -16,7 +16,7 @@
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/2302/2302793.png",
 		"historyName": "Highest strike rate",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_strike_rate"
 	},
 	{
 		"historyImage": "https://lh3.googleusercontent.com/proxy/MmgkRLnhu8d99w4YGw-Q5X9opd0kVhlH16ZhYZESqnIKxAvO5AuyVnt3PlZwOeQ7Hprm8SMVlJsEsrjlzG8m9t10zgd8xW7-z6zOUIYxXNN-taERM7Nab7GnHPbdPMtUvsPcDKvu145gMO3-joE2udCt8JZNFTABJDOAwC-wjSNcLBAZxh4T6IzDnA",
@@ -26,12 +26,12 @@
 	{
 		"historyImage": "https://www.spl.org/Seattle-Public-Library/images/icons/programs-services/icons_115x115_%201-20_50_plus-black.png",
 		"historyName": "Most 50+ scores",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_most_fiftes"
 	},
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/3522/3522917.png",
 		"historyName": "Most sixes",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_most_six"
 	},
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/1099/1099700.png",
