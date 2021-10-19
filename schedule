@@ -1,29 +1,4 @@
-[{
-		"sDateText": "IRE won by 7 wickets",
-		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
-		"sFastOver": "(15.1)",
-		"sFastScore": "107/3",
-		"sFastTeamName": "IRE",
-		"sResultText": "Oct 18, 10:00 AM",
-		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021&oq=t20&aqs=chrome.2.69i57j69i59j35i39j0i433i512l2j69i60j69i61j69i60.3124j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rwphcnsm;5;/m/026y268;dt;fp;1;;",
-		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-		"sSecendOver": "(20)",
-		"sSecendScore": "106",
-		"sSecendTeamName": "NET"
-	},
-	{
-		"sDateText": "SL won by 7 wickets",
-		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-		"sFastOver": "(13.3)",
-		"sFastScore": "100/3",
-		"sFastTeamName": "SRI",
-		"sResultText": "Oct 18, 2:00 PM",
-		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021&oq=t20&aqs=chrome.2.69i57j69i59j35i39j0i433i512l2j69i60j69i61j69i60.3124j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bgshy;5;/m/026y268;dt;fp;1;;",
-		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_96x96.png",
-		"sSecendOver": "(19.3)",
-		"sSecendScore": "96/10",
-		"sSecendTeamName": "NAM"
-	},
+[
 	{
 		"sDateText": "SCO won by 17 runs",
 		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_96x96.png",
@@ -38,16 +13,16 @@
 		"sSecendTeamName": "PNG"
 	},
 	{
-		"sDateText": "Group stage · T20 6 of 45",
+		"sDateText": "BAN won by 26 runs",
 		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/tr94i28azTadAjK9PBYFGA_96x96.png",
-		"sFastOver": "",
-		"sFastScore": "",
+		"sFastOver": "(20)",
+		"sFastScore": "127/9",
 		"sFastTeamName": "OM",
 		"sResultText": "Oct 19, 2:00 PM",
 		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021&oq=t20&aqs=chrome.2.69i57j69i59j35i39j0i433i512l2j69i60j69i61j69i60.3124j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rwph7wqc;5;/m/026y268;dt;fp;1;;",
 		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sSecendOver": "(20)",
+		"sSecendScore": "153/10",
 		"sSecendTeamName": "BAN"
 	},
 	{
