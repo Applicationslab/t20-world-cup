@@ -6,12 +6,12 @@
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/4727/4727318.png",
 		"historyName": "Highest scores",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_highest_score"
 	},
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/2036/2036946.png",
 		"historyName": "Highest average",
-		"historyOnclick": ""
+		"historyOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/stats_avg"
 	},
 	{
 		"historyImage": "https://cdn-icons-png.flaticon.com/512/2302/2302793.png",
