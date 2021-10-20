@@ -1,12 +1,37 @@
 [{
 		"team": "Jatinder Singh",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
-		"score": "Six: 4"
+		"score": "Six: 5"
+	},
+	{
+		"team": "David Wiese",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-664838160-e1523012828390.jpg",
+		"score": "Six: 5"
+	},
+	{
+		"team": "Mohammad Naim",
+		"imageView": "http://cricclubs.com/documentsRep/profilePics/d1c64982-029a-4469-8d54-2a0752bcac4f.jpg",
+		"score": "Six: 2"
 	},
 	{
 		"team": "Assad Vala",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Six: 3"
+		"score": "Six: 2"
+	},
+	{
+		"team": "Richie Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Six: 2"
+	},
+	{
+		"team": "Matthew Cross",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171163/matthew-cross.jpg",
+		"score": "Six: 5"
+	},
+	{
+		"team": "Norman Vanua",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215767/norman-vanua.jpg",
+		"score": "Six: 5"
 	},
 	{
 		"team": "Chris Greaves",
@@ -19,8 +44,8 @@
 		"score": "Six: 2"
 	},
 	{
-		"team": "Bhanuka Rajapaksa",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/112800/112857.1.jpg",
+		"team": "Mushfiqur Rahim",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
 		"score": "Six: 2"
 	}
 ]
