@@ -1,4 +1,9 @@
 [{
+		"team": "Max ODowd",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
+		"score": "Fifties: 2"
+	},
+	{
 		"team": "Jatinder Singh",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
 		"score": "Fifties: 1"
@@ -9,8 +14,13 @@
 		"score": "Fifties: 1"
 	},
 	{
+		"team": "David Wiese",
+		"imageView": "https://superstarsbio.com/wp-content/uploads/2020/02/David-Wiese-450x480.png",
+		"score": "Fifties: 1"
+	},
+	{
 		"team": "Richie Berrington",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171155/richie-berrington.jpg",
 		"score": "Fifties: 1"
 	},
 	{
@@ -21,11 +31,6 @@
 	{
 		"team": "Aqib Ilyas",
 		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
-		"score": "Fifties: 1"
-	},
-	{
-		"team": "Max ODowd",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
 		"score": "Fifties: 1"
 	}
 ]
