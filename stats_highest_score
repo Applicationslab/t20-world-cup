@@ -9,6 +9,16 @@
 		"score": "Runs: 70"
 	},
 	{
+		"team": "Max ODowd",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
+		"score": "Runs: 70"
+	},
+	{
+		"team": "David Wiese",
+		"imageView": "https://superstarsbio.com/wp-content/uploads/2020/02/David-Wiese-450x480.png",
+		"score": "Runs: 66"
+	},
+	{
 		"team": "Mohammad Naim",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
 		"score": "Runs: 64"
@@ -22,5 +32,20 @@
 		"team": "Max ODowd",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
 		"score": "Runs: 51"
+	},
+	{
+		"team": "Aqib Ilyas",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Runs: 50"
+	},
+	{
+		"team": "Norman Vanua",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215767/norman-vanua.jpg",
+		"score": "Runs: 47"
+	},
+	{
+		"team": "Chris Greaves",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/286300/286357.1.jpg",
+		"score": "Runs: 45"
 	}
 ]
