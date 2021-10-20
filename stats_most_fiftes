@@ -9,13 +9,23 @@
 		"score": "Fifties: 1"
 	},
 	{
-		"team": "Max ODowd",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
+		"team": "Richie Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Fifties: 1"
+	},
+	{
+		"team": "Mohammad Naim",
+		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
 		"score": "Fifties: 1"
 	},
 	{
 		"team": "Aqib Ilyas",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/257900/257905.1.jpg",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Fifties: 1"
+	},
+	{
+		"team": "Max ODowd",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
 		"score": "Fifties: 1"
 	}
 ]
