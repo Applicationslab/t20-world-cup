@@ -1,16 +1,51 @@
 [{
-		"team": "Assad Vala",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Average: 56.00"
+		"team": "Jatinder Singh",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
+		"score": "Average: 113.00"
+	},
+	{
+		"team": "David Wiese",
+		"imageView": "https://www.aboutpakistan.com/sports/wp-content/uploads/2021/02/David-Wiese.jpg",
+		"score": "Average: 72.00"
+	},
+	{
+		"team": "Mohammad Naim",
+		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
+		"score": "Average: 64.00"
 	},
 	{
 		"team": "Max ODowd",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
-		"score": "Average: 51.00"
+		"score": "Average: 60.50"
 	},
 	{
-		"team": "Jatinder Singh",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
-		"score": "Average: -"
+		"team": "Aqib Ilyas",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Average: 56.00"
+	},
+	{
+		"team": "Assad Vala",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
+		"score": "Average: 37.00"
+	},
+	{
+		"team": "Richie Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Average: 36.00"
+	},
+	{
+		"team": "Shakib Al Hasan",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"score": "Average: 31.00"
+	},
+	{
+		"team": "Matthew Cross",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171163/matthew-cross.jpg",
+		"score": "Average: 28.00"
+	},
+	{
+		"team": "Gerhard Erasmus",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
+		"score": "Average: 26.00"
 	}
 ]
