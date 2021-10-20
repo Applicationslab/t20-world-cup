@@ -1,17 +1,7 @@
 [{
-		"team": "Mark Adair",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
-		"score": "economy rate: 2.25"
-	},
-	{
-		"team": "Lahiru Kumara",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
-		"score": "economy rate: 2.57"
-	},
-	{
-		"team": "Joshua Little",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171136/joshua-little.jpg",
-		"score": "economy rate: 3.50"
+		"team": "Paul Stirling",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171115/paul-stirling.jpg",
+		"score": "economy rate: 2.50"
 	},
 	{
 		"team": "Mahedi Hasan",
@@ -19,8 +9,43 @@
 		"score": "economy rate: 4.12"
 	},
 	{
+		"team": "Lahiru Kumara",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
+		"score": "economy rate: 4.13"
+	},
+	{
 		"team": "Bilal Khan",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
 		"score": "economy rate: 4.25"
+	},
+	{
+		"team": "Wanindu Hasaranga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
+		"score": "economy rate: 4.50"
+	},
+	{
+		"team": "Fred Klaassen",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-926306228-e1520851010457.jpg",
+		"score": "economy rate: 4.57"
+	},
+	{
+		"team": "Joshua Little",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171136/joshua-little.jpg",
+		"score": "economy rate: 4.62"
+	},
+	{
+		"team": "Dushmantha Chameera",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155068/dushmantha-chameera.jpg",
+		"score": "economy rate: 5.00"
+	},
+	{
+		"team": "Maheesh Theekshana",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
+		"score": "economy rate: 5.25"
+	},
+	{
+		"team": "Mark Watt",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171170/mark-watt.jpg",
+		"score": "economy rate: 5.25"
 	}
 ]
