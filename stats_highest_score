@@ -4,6 +4,11 @@
 		"score": "Runs: 73"
 	},
 	{
+		"team": "Hasaranga",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/286300/286357.1.jpg",
+		"score": "Runs: 71"
+	},
+	{
 		"team": "Richie Berrington",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
 		"score": "Runs: 70"
@@ -34,18 +39,13 @@
 		"score": "Runs: 51"
 	},
 	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"team": "Mahmudullah",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215767/norman-vanua.jpg",
 		"score": "Runs: 50"
 	},
 	{
-		"team": "Norman Vanua",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215767/norman-vanua.jpg",
-		"score": "Runs: 47"
-	},
-	{
-		"team": "Chris Greaves",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/286300/286357.1.jpg",
-		"score": "Runs: 45"
+		"team": "Aqib Ilyas",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Runs: 50"
 	}
 ]
