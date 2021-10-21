@@ -1,15 +1,25 @@
 [{
+		"team": "Shakib",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"score": "Best: 4-9"
+	},
+	{
 		"team": "Josh Davey",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152804/josh-davey.jpg",
 		"score": "Best: 4-18"
 	},
 	{
-		"team": "Zeeshan",
+		"team": "Zeeshan Maqsood",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/75020.jpg",
 		"score": "Best: 4-20"
 	},
 	{
-		"team": "Curtis",
+		"team": "Joshua Little",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171136/joshua-little.jpg",
+		"score": "Best: 4-23"
+	},
+	{
+		"team": "Curtis Campher",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191075/curtis-campher.jpg",
 		"score": "Best: 4-26"
 	},
@@ -29,23 +39,13 @@
 		"score": "Best: 3-9"
 	},
 	{
+		"team": "Theekshana",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
+		"score": "Best: 3-17"
+	},
+	{
 		"team": "Bilal Khan",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
 		"score": "Best: 3-18"
-	},
-	{
-		"team": "Mahedi Hasan",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
-		"score": "Best: 3-19"
-	},
-	{
-		"team": "Chad Soper",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215778/chad-soper.jpg",
-		"score": "Best: 3-24"
-	},
-	{
-		"team": "Bradley Wheal",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171168/bradley-wheal.jpg",
-		"score": "Best: 3-24"
 	}
 ]
