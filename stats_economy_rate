@@ -4,19 +4,24 @@
 		"score": "economy rate: 2.50"
 	},
 	{
-		"team": "Mahedi",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
-		"score": "economy rate: 4.12"
-	},
-	{
 		"team": "Lahiru",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
 		"score": "economy rate: 4.13"
 	},
 	{
+		"team": "Mahedi",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
+		"score": "economy rate: 4.42"
+	},
+	{
 		"team": "Bilal",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
 		"score": "economy rate: 4.25"
+	},
+	{
+		"team": "Shakib",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171170/mark-watt.jpg",
+		"score": "economy rate: 4.50"
 	},
 	{
 		"team": "Hasaranga",
@@ -42,10 +47,6 @@
 		"team": "Theekshana",
 		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
 		"score": "economy rate: 5.25"
-	},
-	{
-		"team": "Mark Watt",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171170/mark-watt.jpg",
-		"score": "economy rate: 5.25"
 	}
+	
 ]
