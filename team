@@ -9,7 +9,7 @@
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Pakistan"
 	},
 	{
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/e/e2/Cricket_Australia_Logo.png",
+		"teamImage": "https://cdn.countryflags.com/thumbs/australia/flag-3d-round-250.png",
 		"teamName": "Australia",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Australia_Squad"
 	},
@@ -24,7 +24,7 @@
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/South_Africa"
 	},
 	{
-		"teamImage": "https://www.searchpng.com/wp-content/uploads/2019/03/New-Zealand-Cricket-715x715.png",
+		"teamImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"teamName": "New Zealand",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/New_Zealand_Squad"
 	},
@@ -37,5 +37,15 @@
 		"teamImage": "https://s.ndtvimg.com/images/entities/300/afghanistan-2156.png",
 		"teamName": "Afghanistan",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Afghanistan"
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png",
+		"teamName": "Bangladesh",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Bangladesh"
+	},
+	{
+		"teamImage": "https://t-grelo.com/wp-content/uploads/2020/10/sri-lanka-flag.png",
+		"teamName": "Sri lanka",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Sri_Lanka"
 	}
 ]
