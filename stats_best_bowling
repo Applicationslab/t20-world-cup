@@ -1,4 +1,9 @@
 [{
+		"team": "A Rashid",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170987/adil-rashid.jpg",
+		"score": "Best: 4-2"
+	},
+	{
 		"team": "Shakib",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
 		"score": "Best: 4-9"
@@ -9,7 +14,7 @@
 		"score": "Best: 4-18"
 	},
 	{
-		"team": "Zeeshan Maqsood",
+		"team": "Maqsood",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/75020.jpg",
 		"score": "Best: 4-20"
 	},
@@ -34,18 +39,13 @@
 		"score": "Best: 4-36"
 	},
 	{
-		"team": "Mark Adair",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
-		"score": "Best: 3-9"
-	},
-	{
-		"team": "Theekshana",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
+		"team": "Lahiru",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
 		"score": "Best: 3-17"
 	},
 	{
-		"team": "Bilal Khan",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
-		"score": "Best: 3-18"
+		"team": "Mark Adair",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
+		"score": "Best: 3-9"
 	}
 ]
