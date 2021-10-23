@@ -29,23 +29,23 @@
 		"score": "Runs: 64"
 	},
 	{
+		"team": "Nissanka",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
+		"score": "Runs: 61"
+	},
+	{
 		"team": "Assad Vala",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
 		"score": "Runs: 56"
 	},
 	{
+		"team": "Gerhard Erasmus",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
+		"score": "Runs: 53"
+	},
+	{
 		"team": "Max ODowd",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
 		"score": "Runs: 51"
-	},
-	{
-		"team": "Mahmudullah",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-		"score": "Runs: 50"
-	},
-	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
-		"score": "Runs: 50"
 	}
 ]
