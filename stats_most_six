@@ -1,51 +1,50 @@
 [{
+		"team": "David Wiese",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-664838160-e1523012828390.jpg",
+		"score": "Six: 7"
+	},
+	{
+		"team": "Richie Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Six: 6"
+	},
+	{
 		"team": "Jatinder Singh",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
 		"score": "Six: 5"
 	},
 	{
-		"team": "David Wiese",
-		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-664838160-e1523012828390.jpg",
-		"score": "Six: 5"
+		"team": "Mahmudullah",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+		"score": "Six: 4"
 	},
 	{
 		"team": "Mohammad Naim",
 		"imageView": "http://cricclubs.com/documentsRep/profilePics/d1c64982-029a-4469-8d54-2a0752bcac4f.jpg",
-		"score": "Six: 2"
+		"score": "Six: 4"
 	},
 	{
+		"team": "Shakib",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"score": "Six: 3"
+	},
+	{
+		"team": "Aqib Ilyas",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Six: 3"
+	}, {
 		"team": "Assad Vala",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Six: 2"
+		"score": "Six: 3"
 	},
 	{
-		"team": "Richie Berrington",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
-		"score": "Six: 2"
+		"team": "Kiplin Doriga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215765/kiplin-doriga.jpg",
+		"score": "Six: 3"
 	},
 	{
-		"team": "Matthew Cross",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171163/matthew-cross.jpg",
-		"score": "Six: 5"
-	},
-	{
-		"team": "Norman Vanua",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215767/norman-vanua.jpg",
-		"score": "Six: 5"
-	},
-	{
-		"team": "Chris Greaves",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/286300/286357.1.jpg",
-		"score": "Six: 2"
-	},
-	{
-		"team": "Gareth Delany",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191074/gareth-delany.jpg",
-		"score": "Six: 2"
-	},
-	{
-		"team": "Mushfiqur Rahim",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
-		"score": "Six: 2"
+		"team": "Kyle Coetzer",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171146/kyle-coetzer.jpg",
+		"score": "Six: 3"
 	}
 ]
