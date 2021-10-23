@@ -1,7 +1,7 @@
 [{
 		"team": "Max ODowd",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
-		"score": "Runs: 121"
+		"score": "Runs: 123"
 	},
 	{
 		"team": "Jatinder Singh",
@@ -9,43 +9,42 @@
 		"score": "Runs: 113"
 	},
 	{
-		"team": "Assad Vala",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Runs: 74"
-	},
-	{
-		"team": "David Wiese",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/312100/312185.png",
-		"score": "Runs: 72"
-	},
-	{
-		"team": "Richie Berrington",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
-		"score": "Runs: 72"
-	},
-	{
-		"team": "Mohammad Naim",
-		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
-		"score": "Runs: 64"
-	},
-	{
 		"team": "Shakib Al Hasan",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
-		"score": "Runs: 62"
-	},
-	{
-		"team": "Matthew Cross",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171163/matthew-cross.jpg",
-		"score": "Runs: 56"
-	},
-	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
-		"score": "Runs: 56"
+		"score": "Runs: 108"
 	},
 	{
 		"team": "Gerhard Erasmus",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
-		"score": "Runs: 52"
+		"score": "Runs: 105"
+	}, {
+		"team": "Richie Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Runs: 103"
+	},
+	{
+		"team": "David Wiese",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/312100/312185.png",
+		"score": "Runs: 100"
+	},
+	{
+		"team": "Aqib Ilyas",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Runs: 93"
+	},
+	{
+		"team": "Mahmudullah",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+		"score": "Runs: 90"
+	},
+	{
+		"team": "Matthew Cross",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171163/matthew-cross.jpg",
+		"score": "Runs: 82"
+	},
+	{
+		"team": "Assad Vala",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
+		"score": "Runs: 80"
 	}
 ]
