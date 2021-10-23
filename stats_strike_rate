@@ -1,7 +1,7 @@
 [{
 		"team": "David Wiese",
 		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/312100/312185.png",
-		"score": "SR: 153.19"
+		"score": "SR: 163.93"
 	},
 	{
 		"team": "Wanindu Hasaranga",
@@ -9,44 +9,44 @@
 		"score": "SR: 151.06"
 	},
 	{
+		"team": "Mahmudullah",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+		"score": "SR: 150.00"
+	},
+	{
 		"team": "Jatinder Singh",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
-		"score": "SR: 150.67"
+		"score": "SR: 148.68"
+	},
+	{
+		"team": "Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "SR: 137.33"
+	},
+	{
+		"team": "Doriga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215765/kiplin-doriga.jpg",
+		"score": "SR: 136.17"
 	},
 	{
 		"team": "Assad Vala",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "SR: 137.04"
+		"score": "SR: 126.98"
 	},
 	{
-		"team": "Richie Berrington",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
-		"score": "SR: 133.33"
+		"team": "George Munsey",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171140/george-munsey.jpg",
+		"score": "SR: 123.08"
 	},
 	{
 		"team": "Mohammad Naim",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
-		"score": "SR: 128.00"
+		"score": "SR: 123.08"
 	},
 	{
 		"team": "Gerhard Erasmus",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
-		"score": "SR: 126.83"
-	},
-	{
-		"team": "Pathum Nissanka",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
-		"score": "SR: 124.53"
-	},
-	{
-		"team": "Max ODowd",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
-		"score": "SR: 117.48"
-	},
-	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
-		"score": "SR: 114.29"
+		"score": "SR: 116.67"
 	}
-	
+
 ]
