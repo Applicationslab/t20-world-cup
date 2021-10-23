@@ -9,6 +9,26 @@
 		"score": "Fifties: 1"
 	},
 	{
+		"team": "Erasmus",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
+		"score": "Fifties: 1"
+	},
+	{
+		"team": "Berrington",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
+		"score": "Fifties: 1"
+	},
+	{
+		"team": "David Wiese",
+		"imageView": "https://superstarsbio.com/wp-content/uploads/2020/02/David-Wiese-450x480.png",
+		"score": "Fifties: 1"
+	},
+	{
+		"team": "Ilyas",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
+		"score": "Fifties: 1"
+	},
+	{
 		"team": "Mahmudullah",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
 		"score": "Fifties: 1"
@@ -19,23 +39,18 @@
 		"score": "Fifties: 1"
 	},
 	{
-		"team": "David Wiese",
-		"imageView": "https://superstarsbio.com/wp-content/uploads/2020/02/David-Wiese-450x480.png",
+		"team": "Hasaranga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
 		"score": "Fifties: 1"
 	},
 	{
-		"team": "Richie Berrington",
-		"imageView": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171155/richie-berrington.jpg",
+		"team": "Nissanka",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
 		"score": "Fifties: 1"
 	},
 	{
-		"team": "Mohammad Naim",
+		"team": "Naim",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
-		"score": "Fifties: 1"
-	},
-	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
 		"score": "Fifties: 1"
 	}
 ]
