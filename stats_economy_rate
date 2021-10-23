@@ -1,12 +1,42 @@
 [{
+		"team": "A Rashid",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170987/adil-rashid.jpg",
+		"score": "economy rate: 0.86"
+	},
+	{
 		"team": "Stirling",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171115/paul-stirling.jpg",
 		"score": "economy rate: 2.50"
 	},
 	{
+		"team": "Jordan",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148144/chris-jordan.jpg",
+		"score": "economy rate: 3.50"
+	},
+	{
 		"team": "Lahiru",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
-		"score": "economy rate: 4.13"
+		"score": "economy rate: 3.62"
+	},
+	{
+		"team": "Hasaranga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
+		"score": "economy rate: 4.09"
+	},
+	{
+		"team": "Moeen",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg",
+		"score": "economy rate: 4.25"
+	},
+	{
+		"team": "Tymal Mills",
+		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-939232982-e1523011918799.jpg",
+		"score": "economy rate: 4.25"
+	},
+	{
+		"team": "Pat Cummins",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+		"score": "economy rate: 4.25"
 	},
 	{
 		"team": "Mahedi",
@@ -16,37 +46,7 @@
 	{
 		"team": "Bilal",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
-		"score": "economy rate: 4.25"
-	},
-	{
-		"team": "Shakib",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171170/mark-watt.jpg",
-		"score": "economy rate: 4.50"
-	},
-	{
-		"team": "Hasaranga",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
-		"score": "economy rate: 4.50"
-	},
-	{
-		"team": "Klaassen",
-		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-926306228-e1520851010457.jpg",
-		"score": "economy rate: 4.57"
-	},
-	{
-		"team": "Little",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171136/joshua-little.jpg",
-		"score": "economy rate: 4.62"
-	},
-	{
-		"team": "Dushmantha",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155068/dushmantha-chameera.jpg",
-		"score": "economy rate: 5.00"
-	},
-	{
-		"team": "Theekshana",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
-		"score": "economy rate: 5.25"
+		"score": "economy rate: 4.45"
 	}
-	
+
 ]
