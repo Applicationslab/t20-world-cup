@@ -47,5 +47,15 @@
 		"teamImage": "https://t-grelo.com/wp-content/uploads/2020/10/sri-lanka-flag.png",
 		"teamName": "Sri lanka",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Sri_Lanka"
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/namibia/flag-button-round-250.png",
+		"teamName": "Namibia",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Namibia"
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/scotland/flag-button-round-250.png",
+		"teamName": "Scotland",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/t20-world-cup/main/Scotland"
 	}
 ]
