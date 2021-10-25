@@ -16,7 +16,16 @@
 	{
 		"team": "Mahmudullah",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-		"score": "Six: 4"
+		"score": "Six: 5"
+	},
+	{
+		"team": "Rajapaksa",
+		"imageView": "https://cricketique.files.wordpress.com/2019/10/bhanuka.jpg",
+		"score": "Six: 5"
+	}, {
+		"team": "Asalanka",
+		"imageView": "https://media.gettyimages.com/photos/charith-asalanka-of-sri-lanka-poses-during-a-portrait-session-at-on-picture-id1233593146?s=612x612",
+		"score": "Six: 5"
 	},
 	{
 		"team": "Mohammad Naim",
@@ -24,27 +33,18 @@
 		"score": "Six: 4"
 	},
 	{
-		"team": "Shakib",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
-		"score": "Six: 3"
+		"team": "Mushfiqur",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+		"score": "Six: 4"
 	},
 	{
-		"team": "Aqib Ilyas",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/257900/257905.1.jpg",
-		"score": "Six: 3"
-	}, {
-		"team": "Assad Vala",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Six: 3"
+		"team": "Munsey",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171140/george-munsey.jpg",
+		"score": "Six: 4"
 	},
 	{
-		"team": "Kiplin Doriga",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215765/kiplin-doriga.jpg",
-		"score": "Six: 3"
-	},
-	{
-		"team": "Kyle Coetzer",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171146/kyle-coetzer.jpg",
-		"score": "Six: 3"
+		"team": "Rahmanullah",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/271600/271689.1.jpg",
+		"score": "Six: 4"
 	}
 ]
