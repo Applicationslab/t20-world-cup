@@ -1,17 +1,21 @@
 [{
+		"team": "Najibullah",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
+		"score": "SR: 173.53"
+	}, {
 		"team": "David Wiese",
 		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/312100/312185.png",
 		"score": "SR: 163.93"
 	},
 	{
-		"team": "Wanindu Hasaranga",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
-		"score": "SR: 151.06"
+		"team": "Rajapaksa",
+		"imageView": "https://cricketique.files.wordpress.com/2019/10/bhanuka.jpg",
+		"score": "SR: 157.38"
 	},
 	{
 		"team": "Mahmudullah",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-		"score": "SR: 150.00"
+		"score": "SR: 153.85"
 	},
 	{
 		"team": "Jatinder Singh",
@@ -19,34 +23,29 @@
 		"score": "SR: 148.68"
 	},
 	{
-		"team": "Berrington",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171155/richie-berrington.jpg",
-		"score": "SR: 137.33"
+		"team": "Wanindu Hasaranga",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
+		"score": "SR: 148.08"
+	},
+	{
+		"team": "Asalanka",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/300500/300524.jpg",
+		"score": "SR: 145.76"
+	},
+	{
+		"team": "Rizwan",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c202222/mohammad-rizwan.jpg",
+		"score": "SR: 143.64"
+	},
+	{
+		"team": "Greaves",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/286300/286357.1.jpg",
+		"score": "SR: 137.21"
 	},
 	{
 		"team": "Doriga",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215765/kiplin-doriga.jpg",
 		"score": "SR: 136.17"
-	},
-	{
-		"team": "Assad Vala",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "SR: 126.98"
-	},
-	{
-		"team": "George Munsey",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171140/george-munsey.jpg",
-		"score": "SR: 123.08"
-	},
-	{
-		"team": "Mohammad Naim",
-		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
-		"score": "SR: 123.08"
-	},
-	{
-		"team": "Gerhard Erasmus",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
-		"score": "SR: 116.67"
 	}
 
 ]
