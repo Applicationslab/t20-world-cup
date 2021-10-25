@@ -1,21 +1,23 @@
 [{
 		"team": "Shakib",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
-		"score": "Wickets: 9"
-	}, {
-		"team": "Theekshana",
-		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
-		"score": "Wickets: 8"
-	}, {
+		"score": "Wickets: 11"
+	},
+	{
 		"team": "Davey",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152804/josh-davey.jpg",
-		"score": "Wickets: 8"
+		"score": "Wickets: 9"
 	},
 	{
 		"team": "Lahiru",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
-		"score": "Wickets: 7"
+		"score": "Wickets: 8"
 	}, {
+		"team": "Theekshana",
+		"imageView": "https://www.espncricinfo.com/db/PICTURES/CMS/318400/318490.jpg",
+		"score": "Wickets: 8"
+	},
+	{
 		"team": "Hasaranga",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
 		"score": "Wickets: 6"
