@@ -1,4 +1,14 @@
 [{
+		"team": "Asalanka",
+		"imageView": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/300500/300524.jpg",
+		"score": "Runs: 80"
+	},
+	{
+		"team": "Rizwan",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c202222/mohammad-rizwan.jpg",
+		"score": "Runs: 79"
+	},
+	{
 		"team": "Jatinder Singh",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154947/jatinder-singh.jpg",
 		"score": "Runs: 73"
@@ -19,6 +29,11 @@
 		"score": "Runs: 70"
 	},
 	{
+		"team": "Babar Azam",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg",
+		"score": "Runs: 68"
+	},
+	{
 		"team": "David Wiese",
 		"imageView": "https://superstarsbio.com/wp-content/uploads/2020/02/David-Wiese-450x480.png",
 		"score": "Runs: 66"
@@ -27,25 +42,5 @@
 		"team": "Mohammad Naim",
 		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
 		"score": "Runs: 64"
-	},
-	{
-		"team": "Nissanka",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
-		"score": "Runs: 61"
-	},
-	{
-		"team": "Assad Vala",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c215724/assad-vala.jpg",
-		"score": "Runs: 56"
-	},
-	{
-		"team": "Gerhard Erasmus",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155088/gerhard-erasmus.jpg",
-		"score": "Runs: 53"
-	},
-	{
-		"team": "Max ODowd",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
-		"score": "Runs: 51"
 	}
 ]
