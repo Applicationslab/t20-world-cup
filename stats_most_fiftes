@@ -1,4 +1,8 @@
 [{
+		"team": "Naim",
+		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
+		"score": "Fifties: 2"
+	}, {
 		"team": "Max ODowd",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155946/max-odowd.jpg",
 		"score": "Fifties: 2"
@@ -46,11 +50,6 @@
 	{
 		"team": "Nissanka",
 		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
-		"score": "Fifties: 1"
-	},
-	{
-		"team": "Naim",
-		"imageView": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
 		"score": "Fifties: 1"
 	}
 ]
