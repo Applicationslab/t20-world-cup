@@ -14,39 +14,38 @@
 		"score": "economy rate: 3.50"
 	},
 	{
-		"team": "Lahiru",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
-		"score": "economy rate: 3.62"
-	},
-	{
-		"team": "Hasaranga",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
-		"score": "economy rate: 4.09"
-	},
-	{
-		"team": "Moeen",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg",
-		"score": "economy rate: 4.25"
-	},
-	{
+		"team": "Rashid",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg",
+		"score": "economy rate: 3.86"
+	}, {
 		"team": "Tymal Mills",
 		"imageView": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-939232982-e1523011918799.jpg",
 		"score": "economy rate: 4.25"
 	},
 	{
-		"team": "Pat Cummins",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+		"team": "Moeen Ali",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg",
 		"score": "economy rate: 4.25"
 	},
 	{
-		"team": "Mahedi",
-		"imageView": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
-		"score": "economy rate: 4.42"
+		"team": "P Cummins",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+		"score": "economy rate: 4.25"
 	},
 	{
 		"team": "Bilal",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154943/bilal-khan.jpg",
 		"score": "economy rate: 4.45"
+	},
+	{
+		"team": "Lahiru",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
+		"score": "economy rate: 4.62"
+	},
+	{
+		"team": "Shakib",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"score": "economy rate: 4.73"
 	}
 
 ]
