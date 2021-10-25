@@ -1,7 +1,16 @@
 [{
+		"team": "Mujeeb",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170865/mujeeb-ur-rahman.jpg",
+		"score": "Best: 5-20"
+	}, {
 		"team": "A Rashid",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170987/adil-rashid.jpg",
 		"score": "Best: 4-2"
+	},
+	{
+		"team": "Rashid",
+		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg",
+		"score": "Best: 4-9"
 	},
 	{
 		"team": "Shakib",
@@ -37,15 +46,5 @@
 		"team": "Mustafizur",
 		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
 		"score": "Best: 4-36"
-	},
-	{
-		"team": "Lahiru",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155029/lahiru-kumara.jpg",
-		"score": "Best: 3-17"
-	},
-	{
-		"team": "Mark Adair",
-		"imageView": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152733/mark-adair.jpg",
-		"score": "Best: 3-9"
 	}
 ]
