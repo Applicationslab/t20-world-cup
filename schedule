@@ -1,40 +1,15 @@
-[{
-		"sDateText": "AFG won by 62 runs",
-		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
-		"sFastOver": "(20)",
-		"sFastScore": "160/5",
-		"sFastTeamName": "AFG",
-		"sResultText": "Oct 31, 10:00 AM",
-		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021+live&oq=t20&aqs=chrome.0.69i59j69i57j69i59l2j69i60l4.1567j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bpw05;5;/m/026y268;dt;fp;1;;",
-		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_96x96.png",
-		"sSecendOver": "(20)",
-		"sSecendScore": "98/9",
-		"sSecendTeamName": "NAM"
-	},
+[
 	{
-		"sDateText": "NZ won by 8 wickets",
-		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-		"sFastOver": "(20)",
-		"sFastScore": "110/7",
-		"sFastTeamName": "IND",
-		"sResultText": "Oct 31, 2:00 PM",
-		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021+live&oq=t20&aqs=chrome.0.69i59j69i57j69i59l2j69i60l4.1567j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rwphy8l_;5;/m/026y268;dt;fp;1;;",
-		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
-		"sSecendOver": "(14.3)",
-		"sSecendScore": "111/2",
-		"sSecendTeamName": "NZ"
-	},
-	{
-		"sDateText": "Super 12 · T20 29 of 45",
+		"sDateText": "ENG won by 26 runs",
 		"sFastImageView": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-		"sFastOver": "",
-		"sFastScore": "",
+		"sFastOver": "(20)",
+		"sFastScore": "163/4",
 		"sFastTeamName": "ENG",
 		"sResultText": "Nov 01, 2:00 PM",
 		"sResultUrl": "https://www.google.com/search?q=t20+world+cup+2021+live&oq=t20&aqs=chrome.0.69i59j69i57j69i59l2j69i60l4.1567j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bnxx4;5;/m/026y268;dt;fp;1;;",
 		"sSecendImageview": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sSecendOver": "(19)",
+		"sSecendScore": "137/10",
 		"sSecendTeamName": "SRI"
 	},
 	{
